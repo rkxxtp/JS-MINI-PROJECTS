@@ -12,3 +12,14 @@ A fun little project that lets you toggle a light bulb on and off with a switch!
 2. **style.css**: All the cool styles that make the bulb light up and switch look nice.
 3. **script.js**: The magic! It toggles the bulb’s state when you click the switch.
 
+
+## Screenshots 
+
+Before clicking the power button -
+
+![Image Alt](https://github.com/rkxxtp/JS-MINI-PROJECTS/blob/1629462ba46bafa00ed6270d74c19a9fc520a43c/4_light/Screenshot%202025-02-27%20223943.png)
+
+
+After clicking the power button -
+
+![Image Alt](https://github.com/rkxxtp/JS-MINI-PROJECTS/blob/1629462ba46bafa00ed6270d74c19a9fc520a43c/4_light/Screenshot%202025-02-27%20223952.png)
