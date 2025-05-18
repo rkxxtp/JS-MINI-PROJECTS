@@ -24,7 +24,7 @@ I saw a web-reference in pinterest and created a visually striking anime card co
 
 ## Image
 
-![Image Alt](./assets/image.png)
+![Image Alt](https://github.com/rkxxtp/JS-MINI-PROJECTS/blob/f9ead2ec1eabe3b76b45ed2d69051691615cd40c/7_anime_card/assets/image.png)
 
 
 
